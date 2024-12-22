@@ -1,0 +1,1096 @@
+[
+    {
+        "currencyCode": "SHP",
+        "currencyName": "Saint Helena pound",
+        "currencySymbol": "£",
+        "id": "shp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "XCD",
+        "currencyName": "Eastern Caribbean dollar",
+        "currencySymbol": "$",
+        "id": "xcd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CHF",
+        "currencyName": "Swiss franc",
+        "currencySymbol": "Fr",
+        "id": "chf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SLL",
+        "currencyName": "Sierra Leonean leone",
+        "currencySymbol": "Le",
+        "id": "sll",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "HUF",
+        "currencyName": "Hungarian forint",
+        "currencySymbol": "Ft",
+        "id": "huf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TWD",
+        "currencyName": "New Taiwan dollar",
+        "currencySymbol": "$",
+        "id": "twd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "XPF",
+        "currencyName": "CFP franc",
+        "currencySymbol": "₣",
+        "id": "xpf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BBD",
+        "currencyName": "Barbadian dollar",
+        "currencySymbol": "$",
+        "id": "bbd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "NZD",
+        "currencyName": "New Zealand dollar",
+        "currencySymbol": "$",
+        "id": "nzd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "XOF",
+        "currencyName": "West African CFA franc",
+        "currencySymbol": "Fr",
+        "id": "xof",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TND",
+        "currencyName": "Tunisian dinar",
+        "currencySymbol": "د.ت",
+        "id": "tnd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencySymbol": "€",
+        "id": "eur",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "IDR",
+        "currencyName": "Indonesian rupiah",
+        "currencySymbol": "Rp",
+        "id": "idr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CVE",
+        "currencyName": "Cape Verdean escudo",
+        "currencySymbol": "Esc",
+        "id": "cve",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "LAK",
+        "currencyName": "Lao kip",
+        "currencySymbol": "₭",
+        "id": "lak",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "USD",
+        "currencyName": "United States dollar",
+        "currencySymbol": "$",
+        "id": "usd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "UGX",
+        "currencyName": "Ugandan shilling",
+        "currencySymbol": "Sh",
+        "id": "ugx",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BIF",
+        "currencyName": "Burundian franc",
+        "currencySymbol": "Fr",
+        "id": "bif",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ZAR",
+        "currencyName": "South African rand",
+        "currencySymbol": "R",
+        "id": "zar",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "LYD",
+        "currencyName": "Libyan dinar",
+        "currencySymbol": "ل.د",
+        "id": "lyd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MXN",
+        "currencyName": "Mexican peso",
+        "currencySymbol": "$",
+        "id": "mxn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "XAF",
+        "currencyName": "Central African CFA franc",
+        "currencySymbol": "Fr",
+        "id": "xaf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MKD",
+        "currencyName": "denar",
+        "currencySymbol": "den",
+        "id": "mkd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CNY",
+        "currencyName": "Chinese yuan",
+        "currencySymbol": "¥",
+        "id": "cny",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "YER",
+        "currencyName": "Yemeni rial",
+        "currencySymbol": "﷼",
+        "id": "yer",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GBP",
+        "currencyName": "British pound",
+        "currencySymbol": "£",
+        "id": "gbp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SBD",
+        "currencyName": "Solomon Islands dollar",
+        "currencySymbol": "$",
+        "id": "sbd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "NOK",
+        "currencyName": "Norwegian krone",
+        "currencySymbol": "kr",
+        "id": "nok",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "DKK",
+        "currencyName": "Danish krone",
+        "currencySymbol": "kr",
+        "id": "dkk",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "UZS",
+        "currencyName": "Uzbekistani soʻm",
+        "currencySymbol": "so'm",
+        "id": "uzs",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "EGP",
+        "currencyName": "Egyptian pound",
+        "currencySymbol": "E£",
+        "id": "egp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "LKR",
+        "currencyName": "Sri Lankan rupee",
+        "currencySymbol": "Rs  රු",
+        "id": "lkr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BDT",
+        "currencyName": "Bangladeshi taka",
+        "currencySymbol": "৳",
+        "id": "bdt",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "PEN",
+        "currencyName": "Peruvian sol",
+        "currencySymbol": "S/ ",
+        "id": "pen",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SGD",
+        "currencyName": "Singapore dollar",
+        "currencySymbol": "$",
+        "id": "sgd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TRY",
+        "currencyName": "Turkish lira",
+        "currencySymbol": "₺",
+        "id": "try",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "AFN",
+        "currencyName": "Afghan afghani",
+        "currencySymbol": "؋",
+        "id": "afn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "AWG",
+        "currencyName": "Aruban florin",
+        "currencySymbol": "ƒ",
+        "id": "awg",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CKD",
+        "currencyName": "Cook Islands dollar",
+        "currencySymbol": "$",
+        "id": "ckd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ZMW",
+        "currencyName": "Zambian kwacha",
+        "currencySymbol": "ZK",
+        "id": "zmw",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "AUD",
+        "currencyName": "Australian dollar",
+        "currencySymbol": "$",
+        "id": "aud",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "AZN",
+        "currencyName": "Azerbaijani manat",
+        "currencySymbol": "₼",
+        "id": "azn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "DJF",
+        "currencyName": "Djiboutian franc",
+        "currencySymbol": "Fr",
+        "id": "djf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KPW",
+        "currencyName": "North Korean won",
+        "currencySymbol": "₩",
+        "id": "kpw",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MUR",
+        "currencyName": "Mauritian rupee",
+        "currencySymbol": "₨",
+        "id": "mur",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "COP",
+        "currencyName": "Colombian peso",
+        "currencySymbol": "$",
+        "id": "cop",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MAD",
+        "currencyName": "Moroccan dirham",
+        "currencySymbol": "د.م.",
+        "id": "mad",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "DZD",
+        "currencyName": "Algerian dinar",
+        "currencySymbol": "دج",
+        "id": "dzd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SDG",
+        "currencyName": "Sudanese pound",
+        "currencySymbol": "ج.س",
+        "id": "sdg",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "FJD",
+        "currencyName": "Fijian dollar",
+        "currencySymbol": "$",
+        "id": "fjd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "NPR",
+        "currencyName": "Nepalese rupee",
+        "currencySymbol": "₨",
+        "id": "npr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GEL",
+        "currencyName": "lari",
+        "currencySymbol": "₾",
+        "id": "gel",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "PKR",
+        "currencyName": "Pakistani rupee",
+        "currencySymbol": "₨",
+        "id": "pkr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BWP",
+        "currencyName": "Botswana pula",
+        "currencySymbol": "P",
+        "id": "bwp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "LBP",
+        "currencyName": "Lebanese pound",
+        "currencySymbol": "ل.ل",
+        "id": "lbp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "PGK",
+        "currencyName": "Papua New Guinean kina",
+        "currencySymbol": "K",
+        "id": "pgk",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "DOP",
+        "currencyName": "Dominican peso",
+        "currencySymbol": "$",
+        "id": "dop",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "QAR",
+        "currencyName": "Qatari riyal",
+        "currencySymbol": "ر.ق",
+        "id": "qar",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MGA",
+        "currencyName": "Malagasy ariary",
+        "currencySymbol": "Ar",
+        "id": "mga",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "INR",
+        "currencyName": "Indian rupee",
+        "currencySymbol": "₹",
+        "id": "inr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SYP",
+        "currencyName": "Syrian pound",
+        "currencySymbol": "£",
+        "id": "syp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SZL",
+        "currencyName": "Swazi lilangeni",
+        "currencySymbol": "L",
+        "id": "szl",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "PYG",
+        "currencyName": "Paraguayan guaraní",
+        "currencySymbol": "₲",
+        "id": "pyg",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "UAH",
+        "currencyName": "Ukrainian hryvnia",
+        "currencySymbol": "₴",
+        "id": "uah",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "NAD",
+        "currencyName": "Namibian dollar",
+        "currencySymbol": "$",
+        "id": "nad",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "AED",
+        "currencyName": "United Arab Emirates dirham",
+        "currencySymbol": "د.إ",
+        "id": "aed",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BGN",
+        "currencyName": "Bulgarian lev",
+        "currencySymbol": "лв",
+        "id": "bgn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KHR",
+        "currencyName": "Cambodian riel",
+        "currencySymbol": "៛",
+        "id": "khr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "IQD",
+        "currencyName": "Iraqi dinar",
+        "currencySymbol": "ع.د",
+        "id": "iqd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SEK",
+        "currencyName": "Swedish krona",
+        "currencySymbol": "kr",
+        "id": "sek",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CUC",
+        "currencyName": "Cuban convertible peso",
+        "currencySymbol": "$",
+        "id": "cuc",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KGS",
+        "currencyName": "Kyrgyzstani som",
+        "currencySymbol": "с",
+        "id": "kgs",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "RUB",
+        "currencyName": "Russian ruble",
+        "currencySymbol": "₽",
+        "id": "rub",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MYR",
+        "currencyName": "Malaysian ringgit",
+        "currencySymbol": "RM",
+        "id": "myr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "STN",
+        "currencyName": "São Tomé and Príncipe dobra",
+        "currencySymbol": "Db",
+        "id": "stn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CAD",
+        "currencyName": "Canadian dollar",
+        "currencySymbol": "$",
+        "id": "cad",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MWK",
+        "currencyName": "Malawian kwacha",
+        "currencySymbol": "MK",
+        "id": "mwk",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SAR",
+        "currencyName": "Saudi riyal",
+        "currencySymbol": "ر.س",
+        "id": "sar",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BAM",
+        "currencyName": "Bosnia and Herzegovina convertible mark",
+        "currencySymbol": "KM",
+        "id": "bam",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ETB",
+        "currencyName": "Ethiopian birr",
+        "currencySymbol": "Br",
+        "id": "etb",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "OMR",
+        "currencyName": "Omani rial",
+        "currencySymbol": "ر.ع.",
+        "id": "omr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MOP",
+        "currencyName": "Macanese pataca",
+        "currencySymbol": "P",
+        "id": "mop",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "LSL",
+        "currencyName": "Lesotho loti",
+        "currencySymbol": "L",
+        "id": "lsl",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ANG",
+        "currencyName": "Netherlands Antillean guilder",
+        "currencySymbol": "ƒ",
+        "id": "ang",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ISK",
+        "currencyName": "Icelandic króna",
+        "currencySymbol": "kr",
+        "id": "isk",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ARS",
+        "currencyName": "Argentine peso",
+        "currencySymbol": "$",
+        "id": "ars",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CRC",
+        "currencyName": "Costa Rican colón",
+        "currencySymbol": "₡",
+        "id": "crc",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "THB",
+        "currencyName": "Thai baht",
+        "currencySymbol": "฿",
+        "id": "thb",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "HTG",
+        "currencyName": "Haitian gourde",
+        "currencySymbol": "G",
+        "id": "htg",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "HNL",
+        "currencyName": "Honduran lempira",
+        "currencySymbol": "L",
+        "id": "hnl",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BYN",
+        "currencyName": "Belarusian ruble",
+        "currencySymbol": "Br",
+        "id": "byn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "PHP",
+        "currencyName": "Philippine peso",
+        "currencySymbol": "₱",
+        "id": "php",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GIP",
+        "currencyName": "Gibraltar pound",
+        "currencySymbol": "£",
+        "id": "gip",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GNF",
+        "currencyName": "Guinean franc",
+        "currencySymbol": "Fr",
+        "id": "gnf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BHD",
+        "currencyName": "Bahraini dinar",
+        "currencySymbol": ".د.ب",
+        "id": "bhd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SRD",
+        "currencyName": "Surinamese dollar",
+        "currencySymbol": "$",
+        "id": "srd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CDF",
+        "currencyName": "Congolese franc",
+        "currencySymbol": "FC",
+        "id": "cdf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SOS",
+        "currencyName": "Somali shilling",
+        "currencySymbol": "Sh",
+        "id": "sos",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CZK",
+        "currencyName": "Czech koruna",
+        "currencySymbol": "Kč",
+        "id": "czk",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "VUV",
+        "currencyName": "Vanuatu vatu",
+        "currencySymbol": "Vt",
+        "id": "vuv",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KES",
+        "currencyName": "Kenyan shilling",
+        "currencySymbol": "Sh",
+        "id": "kes",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "RWF",
+        "currencyName": "Rwandan franc",
+        "currencySymbol": "Fr",
+        "id": "rwf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "RON",
+        "currencyName": "Romanian leu",
+        "currencySymbol": "lei",
+        "id": "ron",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TTD",
+        "currencyName": "Trinidad and Tobago dollar",
+        "currencySymbol": "$",
+        "id": "ttd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GYD",
+        "currencyName": "Guyanese dollar",
+        "currencySymbol": "$",
+        "id": "gyd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "VND",
+        "currencyName": "Vietnamese đồng",
+        "currencySymbol": "₫",
+        "id": "vnd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "UYU",
+        "currencyName": "Uruguayan peso",
+        "currencySymbol": "$",
+        "id": "uyu",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "HKD",
+        "currencyName": "Hong Kong dollar",
+        "currencySymbol": "$",
+        "id": "hkd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TMT",
+        "currencyName": "Turkmenistan manat",
+        "currencySymbol": "m",
+        "id": "tmt",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MZN",
+        "currencyName": "Mozambican metical",
+        "currencySymbol": "MT",
+        "id": "mzn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "PAB",
+        "currencyName": "Panamanian balboa",
+        "currencySymbol": "B/.",
+        "id": "pab",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ERN",
+        "currencyName": "Eritrean nakfa",
+        "currencySymbol": "Nfk",
+        "id": "ern",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TZS",
+        "currencyName": "Tanzanian shilling",
+        "currencySymbol": "Sh",
+        "id": "tzs",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KRW",
+        "currencyName": "South Korean won",
+        "currencySymbol": "₩",
+        "id": "krw",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "JOD",
+        "currencyName": "Jordanian dinar",
+        "currencySymbol": "د.ا",
+        "id": "jod",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MRU",
+        "currencyName": "Mauritanian ouguiya",
+        "currencySymbol": "UM",
+        "id": "mru",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "AOA",
+        "currencyName": "Angolan kwanza",
+        "currencySymbol": "Kz",
+        "id": "aoa",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KZT",
+        "currencyName": "Kazakhstani tenge",
+        "currencySymbol": "₸",
+        "id": "kzt",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MDL",
+        "currencyName": "Moldovan leu",
+        "currencySymbol": "L",
+        "id": "mdl",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "FKP",
+        "currencyName": "Falkland Islands pound",
+        "currencySymbol": "£",
+        "id": "fkp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "AMD",
+        "currencyName": "Armenian dram",
+        "currencySymbol": "֏",
+        "id": "amd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "WST",
+        "currencyName": "Samoan tālā",
+        "currencySymbol": "T",
+        "id": "wst",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "JPY",
+        "currencyName": "Japanese yen",
+        "currencySymbol": "¥",
+        "id": "jpy",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BOB",
+        "currencyName": "Bolivian boliviano",
+        "currencySymbol": "Bs.",
+        "id": "bob",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "CLP",
+        "currencyName": "Chilean peso",
+        "currencySymbol": "$",
+        "id": "clp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BMD",
+        "currencyName": "Bermudian dollar",
+        "currencySymbol": "$",
+        "id": "bmd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SCR",
+        "currencyName": "Seychellois rupee",
+        "currencySymbol": "₨",
+        "id": "scr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GTQ",
+        "currencyName": "Guatemalan quetzal",
+        "currencySymbol": "Q",
+        "id": "gtq",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TJS",
+        "currencyName": "Tajikistani somoni",
+        "currencySymbol": "ЅМ",
+        "id": "tjs",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GMD",
+        "currencyName": "dalasi",
+        "currencySymbol": "D",
+        "id": "gmd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BSD",
+        "currencyName": "Bahamian dollar",
+        "currencySymbol": "$",
+        "id": "bsd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KWD",
+        "currencyName": "Kuwaiti dinar",
+        "currencySymbol": "د.ك",
+        "id": "kwd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MVR",
+        "currencyName": "Maldivian rufiyaa",
+        "currencySymbol": ".ރ",
+        "id": "mvr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "SSP",
+        "currencyName": "South Sudanese pound",
+        "currencySymbol": "£",
+        "id": "ssp",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "IRR",
+        "currencyName": "Iranian rial",
+        "currencySymbol": "﷼",
+        "id": "irr",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ALL",
+        "currencyName": "Albanian lek",
+        "currencySymbol": "L",
+        "id": "all",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BRL",
+        "currencyName": "Brazilian real",
+        "currencySymbol": "R$",
+        "id": "brl",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "RSD",
+        "currencyName": "Serbian dinar",
+        "currencySymbol": "дин.",
+        "id": "rsd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BZD",
+        "currencyName": "Belize dollar",
+        "currencySymbol": "$",
+        "id": "bzd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MMK",
+        "currencyName": "Burmese kyat",
+        "currencySymbol": "Ks",
+        "id": "mmk",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BTN",
+        "currencyName": "Bhutanese ngultrum",
+        "currencySymbol": "Nu.",
+        "id": "btn",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "VES",
+        "currencyName": "Venezuelan bolívar soberano",
+        "currencySymbol": "Bs.S.",
+        "id": "ves",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "LRD",
+        "currencyName": "Liberian dollar",
+        "currencySymbol": "$",
+        "id": "lrd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "JMD",
+        "currencyName": "Jamaican dollar",
+        "currencySymbol": "$",
+        "id": "jmd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "PLN",
+        "currencyName": "Polish złoty",
+        "currencySymbol": "zł",
+        "id": "pln",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KYD",
+        "currencyName": "Cayman Islands dollar",
+        "currencySymbol": "$",
+        "id": "kyd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BND",
+        "currencyName": "Brunei dollar",
+        "currencySymbol": "$",
+        "id": "bnd",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "KMF",
+        "currencyName": "Comorian franc",
+        "currencySymbol": "Fr",
+        "id": "kmf",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "TOP",
+        "currencyName": "Tongan paʻanga",
+        "currencySymbol": "T$",
+        "id": "top",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "GHS",
+        "currencyName": "Ghanaian cedi",
+        "currencySymbol": "₵",
+        "id": "ghs",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ZWL",
+        "currencyName": "Zimbabwean dollar",
+        "currencySymbol": "$",
+        "id": "zwl",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "MNT",
+        "currencyName": "Mongolian tögrög",
+        "currencySymbol": "₮",
+        "id": "mnt",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "ILS",
+        "currencyName": "Israeli new shekel",
+        "currencySymbol": "₪",
+        "id": "ils",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "NIO",
+        "currencyName": "Nicaraguan córdoba",
+        "currencySymbol": "C$",
+        "id": "nio",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "NGN",
+        "currencyName": "Nigerian naira",
+        "currencySymbol": "₦",
+        "id": "ngn",
+        "flag": "",
+        "type": "fiat"
+    },
+    {
+        "currencyCode": "BTC",
+        "currencyName": "BITCOIN",
+        "id": "btc",
+        "type": "crypto",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/50px-Bitcoin.svg.png",
+        "currencySymbol": "B"
+    }
+]
